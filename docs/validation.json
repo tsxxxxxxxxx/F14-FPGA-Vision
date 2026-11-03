@@ -1,0 +1,21 @@
+{
+  "Version": "CANNY_F14",
+  "Resources": {
+    "EFX_ADD": 3067,
+    "EFX_LUT4": 41269,
+    "EFX_DSP48": 12,
+    "EFX_DSP24": 7,
+    "EFX_FF": 19451,
+    "EFX_SRL8": 588,
+    "EFX_RAM10": 254,
+    "EFX_DPRAM10": 1
+  },
+  "TotalRAM10": 255,
+  "RemainingRAM10": 1,
+  "XLRsUsed": 55924,
+  "XLRsAvailable": 60800,
+  "XLRUtilizationPercent": 91.98,
+  "SetupMinNs": 0.002,
+  "HoldMinNs": 0.026,
+  "PixelSetupSlackNs": 0.002
+}

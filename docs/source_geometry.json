@@ -1,0 +1,47 @@
+{
+  "source_sha256": "23efa23c9c1743bee7ae6f6ab587c3f702ac2492eccf08ec113b915a41c46230",
+  "shapes": [
+    {
+      "kind": "triangle",
+      "width": 2188845,
+      "height": 1973580,
+      "x": 3582035,
+      "y": 5859780
+    },
+    {
+      "kind": "trapezoid",
+      "width": 2505710,
+      "height": 1993265,
+      "x": -52070,
+      "y": 2788920
+    },
+    {
+      "kind": "hexagon",
+      "width": 2364105,
+      "height": 2105025,
+      "x": 3304540,
+      "y": 2671445
+    },
+    {
+      "kind": "rect",
+      "width": 2160270,
+      "height": 2160270,
+      "x": 50165,
+      "y": -93345
+    },
+    {
+      "kind": "ellipse",
+      "width": 2160270,
+      "height": 2160270,
+      "x": 3376930,
+      "y": -63500
+    },
+    {
+      "kind": "pentagon",
+      "width": 2618105,
+      "height": 2403475,
+      "x": 36195,
+      "y": 5565775
+    }
+  ]
+}
